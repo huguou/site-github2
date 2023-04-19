@@ -5,10 +5,12 @@
 
 body{
     background-color: rgb(202, 169, 234);
+
 }
 .principal{
     background-color: white;
-    width: 500px;
+    width: auto;
+    
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.321);
