@@ -18,3 +18,9 @@ main{
 h1, h2{
     color: rgb(99, 0, 192);
 }
+
+img.lado{
+    float: right;
+    width: 120px;
+    height: 120px;
+}
