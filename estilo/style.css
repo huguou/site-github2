@@ -16,11 +16,17 @@ main{
 }
 
 h1, h2{
-    color: rgb(99, 0, 192);
+    color: rgb(154, 89, 214);
 }
 
 img.lado{
     float: right;
     width: 120px;
     height: 120px;
+}
+a{
+    unde
+    color: rgb(102, 102, 237);
+    
+    
 }
