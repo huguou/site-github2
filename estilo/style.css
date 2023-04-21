@@ -27,7 +27,10 @@ img.lado{
 a{
     
     color: rgb(102, 102, 237);
-    outline: none;
-    
-    
+text-decoration: none;    
+
+}
+
+a:hover{
+    text-decoration-line: underline;
 }
